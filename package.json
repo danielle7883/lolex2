@@ -1,9 +1,0 @@
-{
-  "name": "lolex-wireframes",
-  "version": "1.0.0",
-  "description": "Lolex Lifts and Platforms — App Wireframes",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "dependencies": {}
-}
